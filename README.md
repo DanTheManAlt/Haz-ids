@@ -1,7 +1,5 @@
-## Automatically updating ids.txt from google sheet data
+## Automatically updating ids.txt from ![DanielTheManiel's discord bot](https://github.com/Dan1elTheMan1el/wpgp-bot)
 
 Used for Arturo's AHK script to farm PTCGP God Packs
 
-Friend codes are filtered in our shared spreadsheet, and edits are automatically pushed to `ids.txt` using an app extension I coded.
-
-The AHK script then uses the raw content of `ids.txt` to sync our group.
+See above link for bot code / features
